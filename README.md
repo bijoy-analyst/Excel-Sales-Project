@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard (Excel Project)
 
-![Dashboard Preview](Screenshot 2025-10-18 024734.png)
+![Dashboard Preview](https://github.com/bijoy-analyst/Excel-Sales-Project/blob/main/Screenshot%202025-10-18%20024734.png)
 
 ## 🧾 Project Overview
 This project is an **Interactive Sales Analysis Dashboard** built in **Microsoft Excel**, designed to analyze and visualize business sales performance across multiple regions, years, and product categories.  
